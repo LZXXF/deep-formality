@@ -1,0 +1,10 @@
+pandas
+numpy
+nltk
+sklearn
+tensorflow
+tensorflow-hub
+scipy
+matplotlib
+
+
